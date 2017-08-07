@@ -20,7 +20,7 @@ namespace MyProgram
 
             oPersianDate.Month = intMonth;
 
-            oPersianDate.DayOfMonth = intDay;
+            oPersianDate.Day = intDay;
 
             return oPersianDate;
         }
